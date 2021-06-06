@@ -1,4 +1,2 @@
 # NH_competition
-Dacon project
-
-- Various Modeling : 
+Dacon에서 진행한 NH투자증권 빅데이터 경진대회
