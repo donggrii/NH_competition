@@ -10,6 +10,11 @@
 - NH투자증권이 제공한 데이터는 대회 종료 후 파기되었음
 - 사용한 외부 데이터 
 
-## Various Modeling
-
 ## Submission
+1. EDA
+2. Preprocessing
+3. Modeling
+4. 제출코드
+5. 확인용
+
+## Trials
