@@ -10,6 +10,7 @@
 - **NH투자증권이 제공한 데이터는 대회 종료 후 파기되었음**
 - **한국어불용어.txt** : 여러 논문과 자료들을 참고하고 직접 수집하여 전처리한 불용어 데이터
 - [GoogleNews-vectors-negative300.bin.gz](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?resourcekey=0-wjGZdNAUop6WykTtMip30g) : Embedding Layer에 사용한 Google에서 제공한 Word Embedding 데이터
+- [word-embeddings](https://drive.google.com/file/d/1yHGtccC2FV3_d6C6_Q4cozYSOgA7bG-e/view) : Fasttext, Glove, Word2vec, Swivel 데이터
 
 ## Submission
 1. EDA
