@@ -5,6 +5,11 @@
 - **대회 주제 : 뉴스 데이터 중 진짜 뉴스와 가짜 뉴스를 분류하는 Text Classification(딥러닝을 활용한 AI 뉴스 필터링 알고리즘 개발)**
 
 ## Tutorial
+1. About_NLP
+2. Preprocessing
+3. Vectorization
+4. Word_Embedding
+5. Modeling
 
 ## Data
 - **NH투자증권이 제공한 데이터는 대회 종료 후 파기되었음**
@@ -20,3 +25,8 @@
 5. 제출코드
 
 ## Trials
+- AutoKeras
+- TFBert
+- GPT2
+- SVM
+- LightGBM 등
