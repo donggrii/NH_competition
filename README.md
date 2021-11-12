@@ -1,8 +1,8 @@
 # NH_competition
-- Dacon에서 진행한 NH투자증권 제 1회 빅데이터 경진대회 ["AI야, 진짜 뉴스를 찾아줘!"](https://dacon.io/competitions/official/235658/overview/description) 수상
+- Dacon에서 진행한 NH투자증권 제 1회 빅데이터 경진대회 ["AI야, 진짜 뉴스를 찾아줘!"](https://dacon.io/competitions/official/235658/overview/description) **수상**
 - [League 1] 알고리즘 개발과 [League 2] 시각화 주제 중 `[League 1] 알고리즘 개발` 주제에 참가
 - NH투자증권 본사에서의 결선 쇼케이스 발표 후 `League 2등 (리뽀 팀)`
-- **대회 주제 : 뉴스 데이터 중 진짜 뉴스와 가짜 뉴스를 분류하는 Text Classification(딥러닝을 활용한 AI 뉴스 필터링 알고리즘 개발)**
+- 대회 주제 : 뉴스 데이터 중 진짜 뉴스와 가짜 뉴스를 분류하는 Text Classification(딥러닝을 활용한 AI 뉴스 필터링 알고리즘 개발)
 
 ## Tutorial
 1. About_NLP
