@@ -18,6 +18,7 @@
 - [word-embeddings](https://drive.google.com/file/d/1yHGtccC2FV3_d6C6_Q4cozYSOgA7bG-e/view) : Fasttext, Glove, Word2vec, Swivel 데이터
 
 ## Submission
+> 코드 순서
 1. EDA
 2. Preprocessing
 3. Modeling
@@ -30,3 +31,33 @@
 - GPT2
 - SVM
 - LightGBM 등
+
+## 형태소 분석기 설치
+
+1. KoNLPy == 0.5.2
+- [KoNLPy](https://konlpy.org/ko/latest/install/) 공식 웹사이트 참고
+```
+$ python3 -m pip install --upgrade pip
+
+$ python3 -m pip install konlpy
+```
+<br/>
+
+2. MeCab(version : mecab of 0.996/ko-0.9.2)
+```
+$ bash <(curl -s https://raw.githubusercontent.com/konlpy/konlpy/master/scripts/mecab.sh)
+```
+<br/>
+
+3. Mecab(eKoNLPy) == 0.0.1
+- [eKoNLPy](https://github.com/entelecheia/eKoNLPy) 공식 깃허브 참고
+```
+$ git clone https://github.com/entelecheia/eKoNLPy.git
+
+$ cd eKoNLPy
+
+$ pip install .
+
+$ pip install . --upgrade
+```
+
