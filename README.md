@@ -44,6 +44,8 @@ $ python3 -m pip install konlpy
 <br/>
 
 #### 2. MeCab(version : mecab of 0.996/ko-0.9.2)
+- [KoNLPy](https://konlpy.org/ko/latest/install/) 공식 웹사이트 참고
+- **2. MeCab**이 설치가 안되는 **윈도우 유저**는 아래의 **3. Mecab(eKoNLPy)** 사용 권장
 ```
 $ bash <(curl -s https://raw.githubusercontent.com/konlpy/konlpy/master/scripts/mecab.sh)
 ```
